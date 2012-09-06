@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="C8C95E83-003C-4B18-BE1C-1728A7119556" ModuleId="BaseService" />
+  <Module PersistentId="F0A4D042-1EEF-453C-A48F-488A905E56EB" ModuleId="MediaSynchronizer" />
+</Modules>

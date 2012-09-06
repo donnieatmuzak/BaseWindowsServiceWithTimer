@@ -1,0 +1,6 @@
+C:\Projects\BaseService\BaseService\BaseService\bin\Debug\MediaSynchronizationService.exe
+C:\Projects\BaseService\BaseService\BaseService\bin\Debug\MediaSynchronizationService.pdb
+C:\Projects\BaseService\BaseService\BaseService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\BaseService\BaseService\BaseService\obj\x86\Debug\MediaSynchronizationService.exe
+C:\Projects\BaseService\BaseService\BaseService\obj\x86\Debug\MediaSynchronizationService.pdb
+C:\Projects\BaseService\BaseService\BaseService\bin\Debug\MediaSynchronizationService.exe.config
